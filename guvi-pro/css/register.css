@@ -1,0 +1,28 @@
+ .gradient-custom-3 {
+
+    background: #84fab0;
+
+    background-size: cover;
+
+    background: -webkit-linear-gradient(to right, rgba(20, 245, 238, 0.76), rgba(255, 2, 230, 0.541));
+
+    background: linear-gradient(to right, rgba(20, 245, 238, 0.76), rgba(255, 2, 230, 0.541))
+}
+
+.gradient-custom-4 {
+
+    background: #84fab0;
+
+    background: -webkit-linear-gradient(to right, rgba(255, 2, 230, 0.541), rgba(20, 245, 238, 0.76));
+
+    background: linear-gradient(to right, rgba(255, 2, 230, 0.541), rgba(20, 245, 238, 0.76))
+} 
+.btn:hover{
+    background: -webkit-linear-gradient(to right, rgba(20, 245, 238, 0.76), rgba(255, 2, 230, 0.541));
+
+    background: linear-gradient(to right, rgba(20, 245, 238, 0.76), rgba(255, 2, 230, 0.541))
+}
+.text-center{
+    color: black;
+}
+

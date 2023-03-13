@@ -1,0 +1,38 @@
+ .gradient-custom-3 {
+
+    background: #84fab0;
+
+    background: -webkit-linear-gradient(to right, rgba(255, 54, 141, 0.632), rgba(22, 196, 167, 0.5));
+
+    background: linear-gradient(to right, rgba(255, 54, 141, 0.632), rgba(22, 196, 167, 0.5))
+} 
+
+
+.login_form #email_error,
+.login_form #pass_error {
+    margin-top: 5px;
+    width: 345px;
+    font-size: 18px;
+    color: #C62828;
+    background: rgba(255, 0, 0, 0.1);
+    text-align: center;
+    padding: 5px 8px;
+    border-radius: 3px;
+    border: 1px solid #EF9A9A;
+    display: none;
+}
+
+ .login_form button:hover {
+    background: -webkit-linear-gradient(to right, rgba(255, 54, 141, 0.632), rgba(22, 196, 167, 0.5));
+
+    background: linear-gradient(to right, rgba(255, 54, 141, 0.632), rgba(22, 196, 167, 0.5))
+    
+} 
+.btn{
+    background: -webkit-linear-gradient(to right, rgba(22, 196, 167, 0.5), rgba(255, 54, 141, 0.632));
+
+    background: linear-gradient(to right, rgba(22, 196, 167, 0.5), rgba(255, 54, 141, 0.632))
+}
+.text-center{
+    color: black;
+}
